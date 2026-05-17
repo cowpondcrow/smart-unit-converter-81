@@ -1,2 +1,11 @@
-# smart-unit-converter-81
-A simple unit converter project
+# Unit Converter
+
+Convert between different units of measurement.
+
+Author: Cameron
+
+## Usage
+
+```
+python converter.py
+```
